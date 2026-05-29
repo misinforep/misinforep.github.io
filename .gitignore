@@ -1,5 +1,5 @@
 .Rproj.user
-
+*.Rproj
 /.quarto/
 **/*.quarto_ipynb
 .Rhistory
@@ -7,3 +7,4 @@
 .httr-oauth
 .DS_Store
 .quarto
+.positai
