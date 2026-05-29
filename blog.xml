@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Misinformation Effect Replication Project</title>
+<link>https://misinforep.github.io/blog.html</link>
+<atom:link href="https://misinforep.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Website about the Misinformation Effect Replication Project</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Fri, 29 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New Website</title>
+  <dc:creator>Lisa DeBruine</dc:creator>
+  <link>https://misinforep.github.io/posts/2026-05-29_new-website.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Lisa DeBruine made us a new website today!</p>
+
+
+
+ ]]></description>
+  <guid>https://misinforep.github.io/posts/2026-05-29_new-website.html</guid>
+  <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Research As It Happens 103: Back to the Source</title>
+  <dc:creator>Rolf Zwaan</dc:creator>
+  <link>https://misinforep.github.io/posts/rait-103.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In this episode of <a href="https://shows.acast.com/research-as-it-happens/episodes/back-to-the-source">Research as it Happens</a>, Rolf Zwaan talks with Elizabeth Loftus (University of California, Irvine) about one of the most influential experiments in cognitive psychology: the 1974 Loftus &amp; Palmer study on memory and misinformation.</p>
+<p>Loftus reflects on how the original study emerged partly by chance—from a lunch conversation with her lawyer cousin and a growing desire to work on questions with clearer real-world relevance. What followed became a landmark demonstration that the wording of a question can influence what people later report remembering.</p>
+<p>In the conversation, we explore:</p>
+<ul>
+<li>how the original experiments were designed and conducted,</li>
+<li>what happens to the original memory after misinformation is introduced,</li>
+<li>whether the effect reflects overwriting, retrieval interference, or source-monitoring problems,</li>
+<li>and how this line of work reshaped theories of memory.</li>
+</ul>
+<p>We also discuss the current large-scale replication project inspired by the original studies. What aspects of the classic experiment should remain unchanged? Which elements can be modernized? Does it matter if participants watch digital videos on computers rather than projected film clips? Could culturally different vehicles—such as scooters instead of cars—produce similar effects?</p>
+<p>The episode also touches on a broader issue in replication research: how revisiting classic findings can become more than an attempt to reproduce an effect. Large collaborative projects may also provide opportunities to test alternative explanations and extend the original work in new directions.</p>
+<p>More than fifty years after the original experiment, the central question remains remarkably current:</p>
+<p>How much of what we remember is shaped by what happened afterward?</p>
+<section id="further-resources" class="level2">
+<h2 class="anchored" data-anchor-id="further-resources">Further Resources</h2>
+<ul>
+<li><a href="https://www.law.uci.edu/faculty/full-time/loftus/">Elizabeth Loftus website</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>podcast</category>
+  <guid>https://misinforep.github.io/posts/rait-103.html</guid>
+  <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Research As It Happens 102: Working Together</title>
+  <dc:creator>Rolf Zwaan</dc:creator>
+  <link>https://misinforep.github.io/posts/rait-102.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In the previous episode, we followed how a simple question about a classic finding in psychology grew into a large international research project.</p>
+<p>In <a href="https://shows.acast.com/research-as-it-happens/episodes/working-together">this episode</a>, we take a closer look at what that shift means in practice.</p>
+<p>What happens when research moves from a single study to a collaboration involving dozens of labs? How do you organize such a project—and what new challenges emerge along the way?</p>
+<p>I speak with Katja Pronizius (University of Vienna, Austria), one of the authors of The Advantage of Big Team Science about the structure of big team science, its advantages, and the challenges that come with working at scale. These include issues of coordination, communication across cultures, and the distribution of responsibility within large teams.</p>
+<p>In the second part of the episode, I talk to Bjørn Sætrevik (University of Bergen, Norway) about what it is like to work inside such a large-scale collaboration. The conversation turns to a question that quickly becomes central in projects like this: how to assign roles and give credit when many people contribute in different ways.</p>
+<p>Together, these conversations highlight how scaling up research changes not only how studies are conducted, but also how contributions are organized, recognized, and made meaningful.</p>
+<p>At this stage of the project, labs are still joining and working groups are being formed. The structure of the collaboration is taking shape—and many of the questions discussed in this episode are becoming directly relevant.</p>
+<section id="further-resources" class="level2">
+<h2 class="anchored" data-anchor-id="further-resources">Further Resources</h2>
+<ul>
+<li>Katja Pronizius <a href="https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned">Article</a></li>
+<li>Bjørn Sætrevik <a href="https://osf.io/preprints/metaarxiv/9kwnq_v1">Preprint</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>podcast</category>
+  <guid>https://misinforep.github.io/posts/rait-102.html</guid>
+  <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Research As It Happens 101: Where it Starts</title>
+  <dc:creator>Rolf Zwaan</dc:creator>
+  <link>https://misinforep.github.io/posts/rait-101.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>In <a href="https://shows.acast.com/research-as-it-happens">Research as it Happens</a>, we go inside a large-scale psychology project, where labs around the world collaborate to study human memory. Each episode follows the process in real time—how ideas develop, experiments are designed, evidence is evaluated, and how researchers decide what to do next.</p>
+<p>In this <a href="https://shows.acast.com/research-as-it-happens/episodes/where-it-starts">first episode</a>, we go back to where the project began.</p>
+
+
+
+ ]]></description>
+  <category>podcast</category>
+  <guid>https://misinforep.github.io/posts/rait-101.html</guid>
+  <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
