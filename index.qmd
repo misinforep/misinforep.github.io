@@ -1,0 +1,7 @@
+---
+title: "Misinformation Effect Replication Project"
+title-block-banner: true
+---
+
+Information about the project...
+

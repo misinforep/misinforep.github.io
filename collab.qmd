@@ -1,0 +1,12 @@
+---
+title: "Collaborators"
+format: html
+---
+
+Lead Team
+
+* [Anita Eerland](https://www.anitaeerland.com/about/)
+* [Rolf Zwaan](https://www.eur.nl/people/rolf-zwaan)
+
+
+
