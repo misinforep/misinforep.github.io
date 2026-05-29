@@ -1,0 +1,27 @@
+---
+title: "Research As It Happens 102: Working Together"
+date: 2026-05-11
+author: [Rolf Zwaan]
+categories: [podcast]
+url: https://shows.acast.com/research-as-it-happens/episodes/working-together
+---
+
+In the previous episode, we followed how a simple question about a classic finding in psychology grew into a large international research project.
+
+In [this episode](https://shows.acast.com/research-as-it-happens/episodes/working-together), we take a closer look at what that shift means in practice.
+
+What happens when research moves from a single study to a collaboration involving dozens of labs? How do you organize such a project—and what new challenges emerge along the way?
+
+I speak with Katja Pronizius (University of Vienna, Austria), one of the authors of The Advantage of Big Team Science about the structure of big team science, its advantages, and the challenges that come with working at scale. These include issues of coordination, communication across cultures, and the distribution of responsibility within large teams.
+
+In the second part of the episode, I talk to Bjørn Sætrevik (University of Bergen, Norway) about what it is like to work inside such a large-scale collaboration. The conversation turns to a question that quickly becomes central in projects like this: how to assign roles and give credit when many people contribute in different ways.
+
+Together, these conversations highlight how scaling up research changes not only how studies are conducted, but also how contributions are organized, recognized, and made meaningful.
+
+At this stage of the project, labs are still joining and working groups are being formed. The structure of the collaboration is taking shape—and many of the questions discussed in this episode are becoming directly relevant.
+
+
+## Further Resources
+
+* Katja Pronizius [Article](https://online.ucpress.edu/collabra/article/12/1/160129/218054/The-Advantage-of-Big-Team-Science-Lessons-Learned)
+* Bjørn Sætrevik [Preprint](https://osf.io/preprints/metaarxiv/9kwnq_v1)

@@ -1,0 +1,11 @@
+---
+title: "Research As It Happens 101: Where it Starts"
+date: 2026-04-27
+author: [Rolf Zwaan]
+categories: [podcast]
+url: https://shows.acast.com/research-as-it-happens/episodes/where-it-starts
+---
+
+In [Research as it Happens](https://shows.acast.com/research-as-it-happens), we go inside a large-scale psychology project, where labs around the world collaborate to study human memory. Each episode follows the process in real time—how ideas develop, experiments are designed, evidence is evaluated, and how researchers decide what to do next.
+
+In this [first episode](https://shows.acast.com/research-as-it-happens/episodes/where-it-starts), we go back to where the project began.

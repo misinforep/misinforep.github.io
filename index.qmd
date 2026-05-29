@@ -1,7 +1,17 @@
 ---
-title: "Misinformation Effect Replication Project"
-title-block-banner: true
+#title: "Misinformation Effect Replication Project"
+title-block-banner: false
 ---
 
 Information about the project...
+
+## Research as it Happens 
+
+[Research as it Happens](https://rolfzwaan.substack.com/p/research-as-it-happens-a-new-podcast) is a new podcast about this project.
+
+Episodes on [Acast](https://shows.acast.com/research-as-it-happens)
+
+* [Episode 3](https://shows.acast.com/research-as-it-happens/episodes/back-to-the-source): Back to the source
+* [Episode 2](https://shows.acast.com/research-as-it-happens/episodes/working-together): Working together
+* [Episode 1](https://shows.acast.com/research-as-it-happens/episodes/where-it-starts): Where it starts
 
